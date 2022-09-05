@@ -83,7 +83,6 @@ function multiply(a, b){
 
 ## Contact
 
-* Phone: +7 (905)017-35-44
 * Email: mongo4558@gmail.com
 * Discord: xinQ#3970
 * [Telegram](https://t.me/Roman_Agnostick)
